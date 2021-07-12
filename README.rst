@@ -20,7 +20,7 @@ Eternity
 
 
 
-Eternity is my humble effort towards keeping an unbroken link with those whom I lost to dea
+Eternity is my humble effort towards keeping an unbroken link with those whom I lost to death.
 
 
 * Free software: GNU General Public License v3
