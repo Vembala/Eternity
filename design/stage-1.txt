@@ -16,4 +16,26 @@
 16. But that should be not according to a predefined rules.
 17. But, I don't think that's a easy catch. Might need long dev cycles.
 18. I think it is better design the process such that it responds to predefined rules and some fake consiousness with less coupling.
-19. This time I get the idea of Sophia. 
+19. This time I get the idea of Sophia.
+20. So, I went throgh OpenCog and all. Looks like it needs a head start.
+21. Seems like, I am also aiming something but in a lesser time. Which is not possible.
+21. What Imight need will be an MVP instead.
+22. I found interesting term, virtual human or digital human. Which I think is the best match here. But, how it is realised is not the exact thing for me. Or that is beyond reach for now. Let's first go through pinscreen first.
+23. Another one was embodied conversational agents. It's basically virtual humans. In fact it's a collective term. It's what I am aiming for.
+24. It's no way near perfection. But, promising results are there.
+25. The core of this project is conversational system. Rest is not mandatory but can enhance the process.26. I am not sure a persons personality can be learned by the agent. I think I need some research here.
+27. Embodied conversation can not be achieved by keeping conversational abilities separate as a module. It's a collective.
+28. Let's see what's the latest there.
+29. I found a very interesting paper that discuss the very same concept in a different perspective.
+30. I went through many plausible technologies. Metahuman looked impressive.
+31. From my research so far there is technology that's capable out there.
+32. Learning everything myself and implementing is impractical.
+33. To speed up I need expert advice.
+34. Keeping it formal is good for reliable recomendations.
+35. Before that I need to include possible components.
+36. There should be a virtual human.
+37. It should have all the charectaristics of the deceased person.
+38. We can not assume it's possible. But it should be there. If it's not there then that's just a virtual human.
+39. Virtual human is not UI. It's an abstraction. UI is realistic rendering. No, it should be neural rendering I suppose. But then everything should be in sync.
+40. But everything is separate modules. Such as lip syncing, tts, stt etc.
+41. I think I have to go through some research on virtual humans to see the approaches.
