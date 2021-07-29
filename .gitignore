@@ -106,3 +106,6 @@ ENV/
 
 # Local resorce
 resource
+
+# Vim swap files
+*.sw*
