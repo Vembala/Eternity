@@ -109,3 +109,6 @@ resource
 
 # Vim swap files
 *.sw*
+
+# PPTs
+*.ppt
