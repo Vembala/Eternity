@@ -1,8 +1,0 @@
-1. class Window
-	base: 
-		depends on framework
-		WindowBase
-	type: 
-		Abstract
-	data:
-		all base attributes
